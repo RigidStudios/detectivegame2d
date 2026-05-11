@@ -13,7 +13,6 @@ public class PlayerAnimator : MonoBehaviour
 
     static readonly int SpeedHash = Animator.StringToHash("Speed");
     static readonly int IsGroundedHash = Animator.StringToHash("IsGrounded");
-    static readonly int PullGadgetHash = Animator.StringToHash("PullGadget");
     static readonly int IsDeadHash = Animator.StringToHash("IsDead");
 
     void Awake()
@@ -32,9 +31,6 @@ public class PlayerAnimator : MonoBehaviour
         else if (controller.Velocity.x < -0.1f) sr.flipX = true;
 
         anim.SetBool(IsGroundedHash, controller.IsGrounded);
-
-        if (Input.GetKeyDown(KeyCode.E))
-            anim.SetTrigger(PullGadgetHash);
     }
 
 

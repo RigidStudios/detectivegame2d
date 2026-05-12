@@ -416,7 +416,7 @@ MonoBehaviour:
     m_NumColorKeys: 3
     m_NumAlphaKeys: 2
   revealMask: {fileID: 613241941141340386}
-  maskFullHeight: 6
+  maskFullHeight: 6.01
 --- !u!331 &613241941141340386
 SpriteMask:
   m_ObjectHideFlags: 0
@@ -617,9 +617,6 @@ MonoBehaviour:
   window: {fileID: 4192909740294732538}
   barTop: {fileID: 5395019084023874468}
   barBottom: {fileID: 6202220879245382248}
-  colorNormal: {r: 0.35, g: 0.35, b: 0.34901962, a: 1}
-  colorHover: {r: 0.22, g: 0.22, b: 0.22, a: 1}
-  colorDrag: {r: 0.15, g: 0.15, b: 0.15, a: 1}
   isDragging: 0
 --- !u!61 &9119120171474846764
 BoxCollider2D:

@@ -406,3 +406,154 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 898.456539 seconds.
+  path: Assets/Environment Sprites
+  artifactKey: Guid(d867d127019a0134a87d1445464e89a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment Sprites using Guid(d867d127019a0134a87d1445464e89a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: 'cff41ce4c3eca2d817ac9bc6458a90d0') in 0.009371 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.864229 seconds.
+  path: Assets/Environment Sprites/Desktop Background
+  artifactKey: Guid(45167e7add0bf624f804ad6282bcf98e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment Sprites/Desktop Background using Guid(45167e7add0bf624f804ad6282bcf98e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '7b987c5e852c25c66f712e300129547a') in 0.000403 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.080700 seconds.
+  path: Assets/Environment Sprites/Desktop Background/Home Screen Mockup.jpg
+  artifactKey: Guid(d79e0b3627aa32a47879bc47879c88d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment Sprites/Desktop Background/Home Screen Mockup.jpg using Guid(d79e0b3627aa32a47879bc47879c88d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: 'b550a451c7e696804f41baf01e1588f4') in 0.062791 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Environment Sprites/Desktop Background/Home_Screen_Mountains.png
+  artifactKey: Guid(60e2486c477f4764698980be123a3dac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment Sprites/Desktop Background/Home_Screen_Mountains.png using Guid(60e2486c477f4764698980be123a3dac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '7d7fcf04bd130bb7155b21edcc0e1c6d') in 0.008484 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Environment Sprites/Desktop Background/Pixel_Homescreen_ Draft.psd
+  artifactKey: Guid(6e3acc45753466443b9c7767ee95862f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment Sprites/Desktop Background/Pixel_Homescreen_ Draft.psd using Guid(6e3acc45753466443b9c7767ee95862f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '4711a7af394ac6df928e27ad0e38856f') in 0.009830 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Environment Sprites/Desktop Background/Home_Screen_River.png
+  artifactKey: Guid(85f2314ec40fb4a47a1eea83a245c7ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment Sprites/Desktop Background/Home_Screen_River.png using Guid(85f2314ec40fb4a47a1eea83a245c7ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: 'e785940573dc89a27e9e06e6b243ecc5') in 0.007633 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/Environment Sprites/Desktop Background/Home_Screen_Forest.png
+  artifactKey: Guid(72b632814a02bd647b67a80a66790d3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment Sprites/Desktop Background/Home_Screen_Forest.png using Guid(72b632814a02bd647b67a80a66790d3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '108d4f90f1a540c85ce93a36ee2e496e') in 0.008134 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.867535 seconds.
+  path: Assets/Environment Sprites/Desktop Icons
+  artifactKey: Guid(159cef2c7c498a349af470b06cfd870c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment Sprites/Desktop Icons using Guid(159cef2c7c498a349af470b06cfd870c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '63e8c7c8aa9b53edbe958ecd201b64bf') in 0.000440 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.054096 seconds.
+  path: Assets/Environment Sprites/Desktop Icons/cursooor.png
+  artifactKey: Guid(1cd655ac7c180724088448acea8c8b5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment Sprites/Desktop Icons/cursooor.png using Guid(1cd655ac7c180724088448acea8c8b5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '9abe9b0e656b0f04c731b855dfc800c2') in 0.007990 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Environment Sprites/Desktop Icons/pixel icons base.png
+  artifactKey: Guid(911f8e5748e124844a293d7596822a2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment Sprites/Desktop Icons/pixel icons base.png using Guid(911f8e5748e124844a293d7596822a2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: 'b319b14cd528c36c7e4d3adccbe5bcc6') in 0.007873 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.962404 seconds.
+  path: Assets/Environment Sprites/Desktop Windows
+  artifactKey: Guid(63d58a79bdc4bf84fb5ef4e7b8114ff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment Sprites/Desktop Windows using Guid(63d58a79bdc4bf84fb5ef4e7b8114ff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: 'af3c8e8f9940ab458bb7c90d7defd6dd') in 0.000426 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.061477 seconds.
+  path: Assets/Environment Sprites/Desktop Windows/Black_double_border.png
+  artifactKey: Guid(78e523b75379ef54bae92bc13309d45d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment Sprites/Desktop Windows/Black_double_border.png using Guid(78e523b75379ef54bae92bc13309d45d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: 'baf7ec90e5ccccd4dee38455e24bac9b') in 0.009376 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.013398 seconds.
+  path: Assets/Environment Sprites/Desktop Windows/Yellow_single_border.png
+  artifactKey: Guid(dba92be5a06ea294ab03340bbe34b899) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment Sprites/Desktop Windows/Yellow_single_border.png using Guid(dba92be5a06ea294ab03340bbe34b899) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '480e6af947ed93c014d8432e33cdf5a2') in 0.009191 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Environment Sprites/Desktop Windows/Black_single_border.png
+  artifactKey: Guid(25d44ea71bc6eb44ea30f8a5038cd114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment Sprites/Desktop Windows/Black_single_border.png using Guid(25d44ea71bc6eb44ea30f8a5038cd114) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '6905d28dc145635897d32eada2e0595d') in 0.008009 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Environment Sprites/Desktop Windows/Yellow_full_border.png
+  artifactKey: Guid(aa2f41b79a827d84cbb34fa9a6555863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment Sprites/Desktop Windows/Yellow_full_border.png using Guid(aa2f41b79a827d84cbb34fa9a6555863) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: 'ed391839c85ff0c601c02b006f241a8a') in 0.009290 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

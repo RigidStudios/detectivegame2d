@@ -12,17 +12,18 @@ public class VolumeNotch : MonoBehaviour
     public Transform barTop;
     public Transform barBottom;
 
-    [Header("Visuals")]
+    /*[Header("Visuals")]
     public Color colorNormal = new Color(0.35f, 0.35f, 0.35f);
     public Color colorHover = new Color(0.22f, 0.22f, 0.22f);
     public Color colorDrag = new Color(0.15f, 0.15f, 0.15f);
+    */
 
     //priv
     SpriteRenderer sr;
     Camera mainCam;
 
     public bool isDragging = false;
-    bool isHovered = false;
+    //bool isHovered = false;
     float dragOffsetY;
 
     float barMinY;
@@ -39,7 +40,7 @@ public class VolumeNotch : MonoBehaviour
     void Start()
     {
         RecalculateBounds();
-        ApplyVisualState();
+       // ApplyVisualState();
 
         //notch to pos
         float startY = Mathf.Lerp(barMinY, barMaxY, window.volume);
@@ -56,15 +57,15 @@ public class VolumeNotch : MonoBehaviour
     //mouse settings
     void OnMouseEnter()
     {
-        isHovered = true;
-        ApplyVisualState();
+       // isHovered = true;
+       // ApplyVisualState();
         print("mouse-enter");
     }
 
     void OnMouseExit()
     {
-        if (!isDragging) isHovered = false;
-        ApplyVisualState();
+       // if (!isDragging) isHovered = false;
+       // ApplyVisualState();
     }
 
     void OnMouseDown()
@@ -72,7 +73,7 @@ public class VolumeNotch : MonoBehaviour
         isDragging = true;
         Vector3 worldClick = mainCam.ScreenToWorldPoint(Input.mousePosition);
         dragOffsetY = transform.position.y - worldClick.y;
-        ApplyVisualState();
+       // ApplyVisualState();
     }
 
     void OnMouseDrag()
@@ -90,8 +91,8 @@ public class VolumeNotch : MonoBehaviour
     void OnMouseUp()
     {
         isDragging = false;
-        isHovered = false;
-        ApplyVisualState();
+       // isHovered = false;
+       // ApplyVisualState();
     }
 
     public void OnTriggerEnter2D(Collider2D collision)
@@ -103,11 +104,12 @@ public class VolumeNotch : MonoBehaviour
         }
     }
 
-    //and dragging indicators
+    /*and dragging indicators
     void ApplyVisualState()
     {
         if (isDragging) sr.color = colorDrag;
         else if (isHovered) sr.color = colorHover;
         else sr.color = colorNormal;
     }
+    */
 }

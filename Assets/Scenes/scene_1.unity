@@ -38,7 +38,6 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -3542,6 +3541,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8861753d10629264da41e91a53a4940a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  cursorTexture: {fileID: 2800000, guid: 1cd655ac7c180724088448acea8c8b5b, type: 3}
+  hotspot: {x: 0, y: 0}
 --- !u!4 &530246533
 Transform:
   m_ObjectHideFlags: 0

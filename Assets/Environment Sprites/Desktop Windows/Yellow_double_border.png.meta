@@ -173,7 +173,28 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Yellow_double_border_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 69
+        width: 182
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 6, y: 15, z: 5, w: 9}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2a3513d6511f74fa98bb6aaf5eac01
+      internalID: 762137095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -184,7 +205,11 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Yellow_double_border_0: -1959894191
+      Yellow_double_border_1: -1568059172
+      Yellow_double_border_2: -1710025406
+      Yellow_double_border_3: 762137095
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

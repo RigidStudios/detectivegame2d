@@ -56,9 +56,15 @@ public class VolumeIndicator : MonoBehaviour
         revealAmount = volume;
         if (revealMask != null)
         {
+            float revealHeight = maskFullHeight;
+
             Vector3 s = revealMask.transform.localScale;
             s.y = Mathf.Lerp(0f, maskFullHeight, volume);
             revealMask.transform.localScale = s;
+
+            Vector3 p = revealMask.transform.localPosition;
+            p.y = (revealHeight * 0.5f) - (maskFullHeight * 0.5f);
+            revealMask.transform.localPosition = p;
         }
     }
     void AnimateEQBars()

@@ -46,7 +46,12 @@ public class VolumeNotch : MonoBehaviour
         float startY = Mathf.Lerp(barMinY, barMaxY, window.volume);
         transform.position = new Vector3(transform.position.x, startY, transform.position.z);
     }
-//add 
+
+    private void Update()
+    {
+        RecalculateBounds();
+    }
+    //add 
     public void RecalculateBounds()
     {
         float halfNotch = transform.localScale.y * 0.5f; //stupid bar scaling don't work without this

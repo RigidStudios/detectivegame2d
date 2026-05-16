@@ -478,8 +478,8 @@ MonoBehaviour:
     m_Bits: 8
   windowHalfHeight: 3
   windowBackground: {fileID: 7447226281626436467}
-  lockedWidth: 100
-  defaultWidth: 7.28
+  lockedWidth: 5
+  defaultWidth: 4
   scaleSpeed: 8
   titleBarCollider: {fileID: 3398053956800284764}
   closeButtonCollider: {fileID: 3807164652389227988}
@@ -527,7 +527,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.032402515, y: 0.18886042}
+  m_Offset: {x: 0.038003683, y: 0.18886042}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -538,7 +538,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 11.150245, y: 6.518112}
+  m_Size: {x: 6.049707, y: 6.518112}
   m_EdgeRadius: 0
 --- !u!1 &5208468247337277843
 GameObject:
